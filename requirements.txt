@@ -1,0 +1,7 @@
+
+gradio
+matplotlib
+torch
+transformers
+librosa
+openai-whisper
