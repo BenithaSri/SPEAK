@@ -1,7 +1,5 @@
 # SPEAK
 
-# 🎤 SPEAK – PersonaCoach
-
 **SPEAK** (Speech Performance Evaluation and Affective Knowledge) is a voice reflection tool that analyzes how you *sound* — not just what you say. It gives you feedback on tone, confidence, filler usage, and emotional delivery using AI.
 
 ---
@@ -16,15 +14,9 @@
 
 ---
 
-## 📷 Preview
-
-![UI Preview](assets/ui-preview.png)
-
----
-
 ## 🧪 Try It Live
 
-**Hugging Face Space:** [(https://huggingface.co/spaces/Benitha/SPEAK)](#)
+**Hugging Face Space:** https://huggingface.co/spaces/Benitha/SPEAK
 
 ---
 
